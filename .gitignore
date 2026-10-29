@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+~$*
+.DS_Store
+Thumbs.db
+pipeline/out/
+results/
+intermediate_files/
+unmapped_features.txt
+*.mmi
+*.fai
+*.gff_db
